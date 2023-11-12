@@ -52,4 +52,4 @@ Original file is located at
 # 
 #
 
-!streamlit run app.py & npx localtunnel --port 8501
+
